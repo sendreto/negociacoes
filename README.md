@@ -1,4 +1,4 @@
 # negociacoes
 JavaScript avançado I
 
-#project in javascript follow the pattern mvc.
+#project in javascript follow the pattern MVC.
